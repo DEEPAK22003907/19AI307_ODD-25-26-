@@ -52,8 +52,8 @@ accessGranted = isRegistered && hasValidID && !isBlacklisted;
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by: NIXAN DASS A
-RegisterNumber:  212222040109
+Developed by: DEEPAK S
+RegisterNumber:  212222040032
 */
 ```
 
@@ -91,6 +91,7 @@ public class AccessCheck {
 
 ## RESULT:
 Thus, the program successfully evaluates access permission using logical operators and produces the correct output.
+
 
 
 
